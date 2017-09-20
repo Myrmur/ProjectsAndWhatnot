@@ -1,1 +1,20 @@
+body{
+  background:pink;
+}
+#heck{
+  color:maroon;
+  font-family:"comic sans ms";
+  font-style:italic;
+}
 
+#yeah{
+  color:blue;
+  font-family:"courier";
+  font-weight:bold;
+}
+
+#dude{
+  color:green;
+  font-family:impact;
+  font-style:oblique;
+}
